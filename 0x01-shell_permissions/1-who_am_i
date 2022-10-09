@@ -1,2 +1,2 @@
 #!/bin/bash
-id Who am I
+id -un
